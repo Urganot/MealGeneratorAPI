@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'profiles_api',
     'rest_framework',
     'rest_framework.authtoken',
-    'meal_generator_api'
+    'meals_api'
 ]
 
 MIDDLEWARE = [
