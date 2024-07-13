@@ -37,9 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'MealGeneratorAPI.api',
+    'profiles_api',
     'rest_framework',
     'rest_framework.authtoken',
+    'meal_generator_api'
 ]
 
 MIDDLEWARE = [
